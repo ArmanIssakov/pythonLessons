@@ -1,0 +1,15 @@
+2022-11-08 21:52:01,767 - apscheduler.scheduler - INFO - Scheduler started
+2022-11-08 21:52:14,774 - __main__ - INFO - Пол Arman: Boy
+2022-11-08 21:52:18,907 - __main__ - INFO - Пользователю Arman: 25 лет
+2022-11-08 21:52:28,015 - __main__ - INFO - Страна в, которой проживает Arman: Казахстан
+2022-11-08 21:52:37,500 - __main__ - INFO - Пользователь Arman рассказал: Я программист
+2022-11-08 21:58:29,326 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2022-11-08 21:58:29,326 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2022-11-08 21:58:36,091 - telegram.ext.updater - WARNING - Exiting immediately!
+2022-11-08 21:58:53,691 - apscheduler.scheduler - INFO - Scheduler started
+2022-11-08 21:59:04,234 - __main__ - INFO - РџРѕР» Arman: Boy
+2022-11-08 21:59:08,545 - __main__ - INFO - РџРѕР»СЊР·РѕРІР°С‚РµР»СЋ Arman: 25 Р»РµС‚
+2022-11-08 21:59:18,887 - __main__ - INFO - РЎС‚СЂР°РЅР° РІ, РєРѕС‚РѕСЂРѕР№ РїСЂРѕР¶РёРІР°РµС‚ Arman: Kazakhstan
+2022-11-08 21:59:33,899 - __main__ - INFO - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ Arman СЂР°СЃСЃРєР°Р·Р°Р»: i'm developer
+2022-11-08 22:00:02,104 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2022-11-08 22:00:02,104 - apscheduler.scheduler - INFO - Scheduler has been shut down
